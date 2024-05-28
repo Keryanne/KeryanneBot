@@ -1,7 +1,8 @@
 # KeryanneBot
- Télégram
+ Bot Télégram = @KeryanneBot
 
  node setWebhook.js 
+ 
  node webhook.js
 
  Exposer le projet : ngrok
